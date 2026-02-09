@@ -1,2 +1,3 @@
 # MassSpecGym_Processing
-Processing of the MassSpecGym Library
+Processing workflow for the MassSpecGym MS2 library, taken from https://github.com/pluskal-lab/MassSpecGym.
+
